@@ -1,7 +1,26 @@
 <!-- OpenGraph -->
 <% if (theme.head.opengraph.enable) { %> 
+    <%
+    let ogDescription = '';
+    let ogTitle = '';
+    if (is_tag()) {
+        ogDescription = theme.description.tag.replace('%s', page.tag);
+        ogTitle = theme.title.tag.replace('%s', page.tag);
+    } else if( is_archive() ) {
+        ogDescription = page.year ? theme.description.archive.replace('%s', page.year + (page.month ? "/" + page.month : '')) : theme.description.all_archive;
+        ogTitle = page.year ? theme.title.archive.replace('%s', page.year + (page.month ? '/' + page.month : '')) : theme.title.all_archive;
+    } else if( is_category() ) {
+        ogDescription = theme.description.category.replace('%s', page.category);
+        ogTitle = page.category + ' - ' + config.title;
+    } else {
+        ogDescription = page.description || page.excerpt || config.description;
+        ogTitle = page.title || config.title;
+    }
+    %>
     <%- open_graph({
         type: theme.head.opengraph.type,
+        title: ogTitle,
+        description: ogDescription,
         twitter_card: theme.head.opengraph.twitter_card,
         twitter_id: theme.head.opengraph.twitter_id,
         image: eval(theme.head.opengraph.image),

@@ -1,0 +1,36 @@
+page:
+  pagination: "페이지 %s"
+  prev_page: 이전
+  next_page: 다음
+navbar:
+  home: 홈
+  link: 링크
+  archive: 아카이브
+  category: 카테고리
+  tag: 태그
+  top: 맨 위로
+search:
+  main: "검색"
+  placeholder: "키워드를 입력하세요..."
+post:
+  top: 맨 위
+  read_more: 더 읽기
+  sticky: 고정
+  comments: 댓글
+  comments_placeholder: "%s을(를) 불러올 수 없습니다. 네트워크 연결을 확인하십시오."
+  updated: "업데이트됨 "
+  prev: 이전 글
+  next: 다음 글
+  toc: 목차
+  copyright:
+    author: "작성자: "
+    permalink: "퍼머링크: "
+  expire: "이 문서는 %s일 전에 마지막으로 업데이트되었습니다. 문서에 설명된 정보가 오래되었을 수 있습니다."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

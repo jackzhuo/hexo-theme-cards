@@ -1,0 +1,36 @@
+page:
+  pagination: "Pagina %s"
+  prev_page: Precedente
+  next_page: Successiva
+navbar:
+  home: Home
+  link: Link
+  archive: Archivio
+  category: Categoria
+  tag: Tag
+  top: Torna in cima
+search:
+  main: "Cerca"
+  placeholder: "Inserisci una parola chiave..."
+post:
+  top: Inizio
+  read_more: Leggi di più
+  sticky: Importante
+  comments: Commenti
+  comments_placeholder: "Impossibile caricare %s, assicurati che la tua rete possa accedere."
+  updated: "aggiornato il "
+  prev: Articolo precedente
+  next: Articolo successivo
+  toc: Indice
+  copyright:
+    author: "Autore: "
+    permalink: "Permalink: "
+  expire: "Questo articolo è stato aggiornato l'ultima volta %s giorni fa, le informazioni descritte nell'articolo potrebbero essere obsolete."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

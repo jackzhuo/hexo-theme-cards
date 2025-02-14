@@ -1,4 +1,5 @@
 <footer class="footer">
+    <div class="footer-content">
     <%- partial('_plugins/back_to_top/main') %>
     <%- partial('_plugins/statistics/index', {position: 'site'}) %> 
     <% if (theme.footer.copyright_since !== false) { %>
@@ -20,4 +21,6 @@
         <% } %>
     <% } %>
     <p>Powered by <a href="https://hexo.io" target="_blank">Hexo</a> | Theme - <a href="https://github.com/ChrAlpha/hexo-theme-cards" target="_blank">Cards</a></p>
+    <%- partial('_partial/scripts/language_selector') %>
+    </div>
 </footer>

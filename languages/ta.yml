@@ -1,0 +1,36 @@
+page:
+  pagination: 'பக்கம் %s'
+  prev_page: முந்தையது
+  next_page: அடுத்து
+navbar:
+  home: முகப்பு
+  link: இணைப்பு
+  archive: காப்பகம்
+  category: வகை
+  tag: குறிச்சொல்
+  top: மேலே செல்
+search:
+  main: "தேடல்"
+  placeholder: "தயவு செய்து ஒரு முக்கிய சொல்லை உள்ளிடவும்..."
+post:
+  top: மேல்
+  read_more: மேலும் படிக்க
+  sticky: ஒட்டும்
+  comments: கருத்துரைகள்
+  comments_placeholder: '%s ஏற்ற முடியவில்லை, உங்கள் நெட்வொர்க் அணுக முடியுமா என்பதை உறுதிப்படுத்தவும்.'
+  updated: 'புதுப்பிக்கப்பட்டது '
+  prev: முந்தைய இடுகை
+  next: அடுத்த இடுகை
+  toc: பொருளடக்கம்
+  copyright:
+    author: 'ஆசிரியர்: '
+    permalink: 'நிலையான இணைப்பு: '
+  expire: "இந்தக் கட்டுரை கடைசியாக %s நாட்களுக்கு முன்பு புதுப்பிக்கப்பட்டது, கட்டுரையில் விவரிக்கப்பட்டுள்ள தகவல்கள் காலாவதியானதாக இருக்கலாம்."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

@@ -1,0 +1,36 @@
+page:
+  pagination: 'Страница %s'
+  prev_page: Предишна
+  next_page: Следваща
+navbar:
+  home: Начало
+  link: Връзка
+  archive: Архив
+  category: Категория
+  tag: Таг
+  top: Обратно в началото
+search:
+  main: "Търсене"
+  placeholder: "Моля, въведете ключова дума..."
+post:
+  top: Отгоре
+  read_more: Прочетете повече
+  sticky: Лепкав
+  comments: Коментари
+  comments_placeholder: '%s не може да се зареди, моля, уверете се, че мрежата ви има достъп.'
+  updated: 'актуализирано на '
+  prev: Предишна публикация
+  next: Следваща публикация
+  toc: Съдържание
+  copyright:
+    author: 'Автор: '
+    permalink: 'Постоянен линк: '
+  expire: "Тази статия е актуализирана за последно преди %s дни, информацията, описана в статията, може да е остаряла."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

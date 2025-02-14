@@ -1,0 +1,36 @@
+page:
+  pagination: "Seite %s"
+  prev_page: Vorherige
+  next_page: Nächste
+navbar:
+  home: Startseite
+  link: Link
+  archive: Archiv
+  category: Kategorie
+  tag: Schlagwort
+  top: Nach oben
+search:
+  main: "Suche"
+  placeholder: "Bitte geben Sie ein Stichwort ein..."
+post:
+  top: Top
+  read_more: Weiterlesen
+  sticky: Wichtig
+  comments: Kommentare
+  comments_placeholder: "%s konnte nicht geladen werden. Bitte überprüfen Sie Ihre Netzwerkverbindung."
+  updated: "aktualisiert am "
+  prev: Vorheriger Artikel
+  next: Nächster Artikel
+  toc: Inhaltsverzeichnis
+  copyright:
+    author: "Autor: "
+    permalink: "Permalink: "
+  expire: "Dieser Artikel wurde vor %s Tagen aktualisiert. Die im Artikel beschriebenen Informationen könnten veraltet sein."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

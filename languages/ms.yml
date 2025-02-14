@@ -1,0 +1,36 @@
+page:
+  pagination: 'Halaman %s'
+  prev_page: Sebelumnya
+  next_page: Seterusnya
+navbar:
+  home: Laman Utama
+  link: Pautan
+  archive: Arkib
+  category: Kategori
+  tag: Tag
+  top: Kembali ke Atas
+search:
+  main: "Carian"
+  placeholder: "Sila masukkan kata kunci..."
+post:
+  top: Atas
+  read_more: Baca Lagi
+  sticky: Melekit
+  comments: Komen
+  comments_placeholder: 'Tidak dapat memuatkan %s, sila pastikan rangkaian anda boleh mengakses.'
+  updated: 'dikemaskinikan pada '
+  prev: Catatan Sebelumnya
+  next: Catatan Seterusnya
+  toc: Jadual Kandungan
+  copyright:
+    author: 'Pengarang: '
+    permalink: 'Pautan Kekal: '
+  expire: "Artikel ini terakhir dikemas kini pada %s hari lalu, maklumat yang diterangkan dalam artikel mungkin sudah lapuk."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

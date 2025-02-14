@@ -17,7 +17,7 @@ function merge(target, source) {
 
 module.exports = (hexo) => {
     var data = hexo.locals.get('data');
-    
+
     if (data.cards) {
         merge(hexo.theme.config, data.cards);
     } else {

@@ -1,0 +1,36 @@
+page:
+  pagination: "Sayfa %s"
+  prev_page: Önceki
+  next_page: Sonraki
+navbar:
+  home: Anasayfa
+  link: Bağlantı
+  archive: Arşiv
+  category: Kategori
+  tag: Etiket
+  top: Yukarı
+search:
+  main: "Ara"
+  placeholder: "Lütfen bir anahtar kelime girin..."
+post:
+  top: En Üst
+  read_more: Devamını Oku
+  sticky: Sabit
+  comments: Yorumlar
+  comments_placeholder: "%s yüklenemiyor, lütfen ağınızın erişebildiğinden emin olun."
+  updated: "güncellendi "
+  prev: Önceki Gönderi
+  next: Sonraki Gönderi
+  toc: İçindekiler
+  copyright:
+    author: "Yazar: "
+    permalink: "Kalıcı Bağlantı: "
+  expire: "Bu makale en son %s gün önce güncellendi, makalede açıklanan bilgiler güncel olmayabilir."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

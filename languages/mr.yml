@@ -1,0 +1,36 @@
+page:
+  pagination: 'पान %s'
+  prev_page: मागील
+  next_page: पुढील
+navbar:
+  home: मुख्यपृष्ठ
+  link: दुवा
+  archive: संग्रहण
+  category: श्रेणी
+  tag: टॅग
+  top: वर परत
+search:
+  main: "शोधा"
+  placeholder: "कृपया एक कीवर्ड प्रविष्ट करा..."
+post:
+  top: शीर्ष
+  read_more: अधिक वाचा
+  sticky: चिकट
+  comments: टिप्पण्या
+  comments_placeholder: '%s लोड करण्यास अक्षम, कृपया आपले नेटवर्क प्रवेश करू शकते याची खात्री करा.'
+  updated: 'रोजी अद्यतनित '
+  prev: मागील पोस्ट
+  next: पुढील पोस्ट
+  toc: विषयसूची
+  copyright:
+    author: 'लेखक: '
+    permalink: 'कायमस्वरूपी दुवा: '
+  expire: "हा लेख शेवटच्या वेळी %s दिवसांपूर्वी अद्यतनित केला गेला होता, लेखात वर्णन केलेली माहिती कालबाह्य झालेली असू शकते."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

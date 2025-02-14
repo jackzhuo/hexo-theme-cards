@@ -1,0 +1,36 @@
+page:
+  pagination: 'หน้า %s'
+  prev_page: ก่อนหน้า
+  next_page: ถัดไป
+navbar:
+  home: หน้าแรก
+  link: ลิงก์
+  archive: คลังเก็บ
+  category: หมวดหมู่
+  tag: แท็ก
+  top: กลับไปด้านบน
+search:
+  main: "ค้นหา"
+  placeholder: "โปรดป้อนคำหลัก..."
+post:
+  top: ด้านบน
+  read_more: อ่านเพิ่มเติม
+  sticky: ปักหมุด
+  comments: ความคิดเห็น
+  comments_placeholder: 'ไม่สามารถโหลด %s โปรดตรวจสอบว่าเครือข่ายของคุณสามารถเข้าถึงได้'
+  updated: 'อัปเดตเมื่อ '
+  prev: โพสต์ก่อนหน้า
+  next: โพสต์ถัดไป
+  toc: สารบัญ
+  copyright:
+    author: 'ผู้เขียน: '
+    permalink: 'ลิงก์ถาวร: '
+  expire: "บทความนี้ได้รับการอัปเดตครั้งล่าสุดเมื่อ %s วันที่ผ่านมา ข้อมูลที่อธิบายไว้ในบทความอาจล้าสมัย"
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

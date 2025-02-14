@@ -1,0 +1,36 @@
+page:
+  pagination: 'পৃষ্ঠা %s'
+  prev_page: পূর্ববর্তী
+  next_page: পরবর্তী
+navbar:
+  home: হোম
+  link: লিঙ্ক
+  archive: সংগ্রহ
+  category: বিভাগ
+  tag: ট্যাগ
+  top: উপরে ফিরে যান
+search:
+  main: "অনুসন্ধান"
+  placeholder: "অনুগ্রহ করে একটি কীওয়ার্ড প্রবেশ করুন..."
+post:
+  top: উপরে
+  read_more: আরও পড়ুন
+  sticky: স্টিকি
+  comments: মন্তব্য
+  comments_placeholder: '%s লোড করতে অক্ষম, অনুগ্রহ করে নিশ্চিত করুন আপনার নেটওয়ার্ক অ্যাক্সেস করতে পারে।'
+  updated: 'হালনাগাদ করা হয়েছে '
+  prev: পূর্ববর্তী পোস্ট
+  next: পরবর্তী পোস্ট
+  toc: বিষয়াবলী
+  copyright:
+    author: 'লেখক: '
+    permalink: 'স্থায়ী লিঙ্ক: '
+  expire: "এই নিবন্ধটি শেষবার %s দিন আগে আপডেট করা হয়েছিল, নিবন্ধে বর্ণিত তথ্য পুরনো হতে পারে।"
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

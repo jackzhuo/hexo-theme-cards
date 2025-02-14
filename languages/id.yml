@@ -1,0 +1,36 @@
+page:
+  pagination: 'Halaman %s'
+  prev_page: Sebelumnya
+  next_page: Berikutnya
+navbar:
+  home: Beranda
+  link: Tautan
+  archive: Arsip
+  category: Kategori
+  tag: Tag
+  top: Kembali ke Atas
+search:
+  main: "Cari"
+  placeholder: "Silakan masukkan kata kunci..."
+post:
+  top: Atas
+  read_more: Baca Selengkapnya
+  sticky: Lengket
+  comments: Komentar
+  comments_placeholder: 'Tidak dapat memuat %s, pastikan jaringan Anda dapat mengakses.'
+  updated: 'diperbarui pada '
+  prev: Pos Sebelumnya
+  next: Pos Berikutnya
+  toc: Daftar Isi
+  copyright:
+    author: 'Penulis: '
+    permalink: 'Tautan Permanen: '
+  expire: "Artikel ini terakhir diperbarui %s hari yang lalu, informasi yang dijelaskan dalam artikel mungkin sudah usang."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

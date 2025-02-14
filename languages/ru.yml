@@ -1,0 +1,36 @@
+page:
+  pagination: "Страница %s"
+  prev_page: Предыдущая
+  next_page: Следующая
+navbar:
+  home: Главная
+  link: Ссылка
+  archive: Архив
+  category: Категория
+  tag: Тег
+  top: Наверх
+search:
+  main: "Поиск"
+  placeholder: "Пожалуйста, введите ключевое слово..."
+post:
+  top: Вверх
+  read_more: Читать далее
+  sticky: Закреплено
+  comments: Комментарии
+  comments_placeholder: "Не удалось загрузить %s, пожалуйста, убедитесь, что у вашей сети есть доступ."
+  updated: "обновлено "
+  prev: Предыдущая статья
+  next: Следующая статья
+  toc: Содержание
+  copyright:
+    author: "Автор: "
+    permalink: "Постоянная ссылка: "
+  expire: "Эта статья была последний раз обновлена %s дней назад, информация, описанная в статье, может быть устаревшей."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="<%= config.language%>">
+<html lang="<%= config.language%>" dir="<%= ['ar', 'fa', 'he', 'ur'].includes(config.language) ? 'rtl' : 'ltr' %>">
     <%- partial('_partial/head/index') %>
     <body>
         <div id="app" tabindex="-1">

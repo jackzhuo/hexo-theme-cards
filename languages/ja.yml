@@ -1,0 +1,36 @@
+page:
+  pagination: 'ページ %s'
+  prev_page: 前へ
+  next_page: 次へ
+navbar:
+  home: ホーム
+  link: リンク
+  archive: アーカイブ
+  category: カテゴリー
+  tag: タグ
+  top: ページトップへ
+search:
+  main: "検索"
+  placeholder: "キーワードを入力してください..."
+post:
+  top: トップ
+  read_more: 続きを読む
+  sticky: おすすめ
+  comments: コメント
+  comments_placeholder: '%sを読み込めません。ネットワークアクセスをご確認ください。'
+  updated: '更新日時: '
+  prev: 前の記事
+  next: 次の記事
+  toc: 目次
+  copyright:
+    author: '著者: '
+    permalink: 'パーマリンク: '
+  expire: "この記事は%s日前に更新されました。記事の内容が古い可能性があります。"
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

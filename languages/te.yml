@@ -1,0 +1,36 @@
+page:
+  pagination: 'పేజీ %s'
+  prev_page: మునుపటి
+  next_page: తదుపరి
+navbar:
+  home: హోమ్
+  link: లింక్
+  archive: ఆర్కైవ్
+  category: వర్గం
+  tag: ట్యాగ్
+  top: తిరిగి పైకి
+search:
+  main: "వెతకండి"
+  placeholder: "దయచేసి ఒక కీవర్డ్ నమోదు చేయండి..."
+post:
+  top: పైన
+  read_more: మరింత చదవండి
+  sticky: స్టిక్కీ
+  comments: వ్యాఖ్యలు
+  comments_placeholder: '%s ను లోడ్ చేయలేకపోయాము, దయచేసి మీ నెట్‌వర్క్‌కు యాక్సెస్ ఉందని నిర్ధారించుకోండి.'
+  updated: 'న నవీకరించబడింది '
+  prev: మునుపటి పోస్ట్
+  next: తదుపరి పోస్ట్
+  toc: విషయ సూచిక
+  copyright:
+    author: 'రచయిత: '
+    permalink: 'శాశ్వత లింక్: '
+  expire: "ఈ వ్యాసం చివరిసారిగా %s రోజుల క్రితం నవీకరించబడింది, వ్యాసంలో వివరించిన సమాచారం పాతబడి ఉండవచ్చు."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

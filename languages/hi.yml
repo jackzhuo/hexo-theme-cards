@@ -1,0 +1,36 @@
+page:
+  pagination: 'पृष्ठ %s'
+  prev_page: पिछला
+  next_page: अगला
+navbar:
+  home: होम
+  link: लिंक
+  archive: संग्रह
+  category: श्रेणी
+  tag: टैग
+  top: ऊपर वापस
+search:
+  main: "खोजें"
+  placeholder: "कृपया कोई कीवर्ड दर्ज करें..."
+post:
+  top: ऊपर
+  read_more: और पढ़ें
+  sticky: चिपचिपा
+  comments: टिप्पणियाँ
+  comments_placeholder: '%s लोड करने में असमर्थ, कृपया सुनिश्चित करें कि आपका नेटवर्क एक्सेस कर सकता है।'
+  updated: 'पर अपडेट किया गया '
+  prev: पिछला पोस्ट
+  next: अगला पोस्ट
+  toc: विषय-सूची
+  copyright:
+    author: 'लेखक: '
+    permalink: 'स्थायी लिंक: '
+  expire: "यह लेख आखिरी बार %s दिन पहले अपडेट किया गया था, लेख में वर्णित जानकारी पुरानी हो सकती है।"
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

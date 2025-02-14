@@ -1,0 +1,36 @@
+page:
+  pagination: 'صفحه %s'
+  prev_page: قبلی
+  next_page: بعدی
+navbar:
+  home: خانه
+  link: پیوند
+  archive: آرشیو
+  category: دسته
+  tag: برچسب
+  top: بازگشت به بالا
+search:
+  main: "جستجو"
+  placeholder: "لطفاً یک کلمه کلیدی وارد کنید..."
+post:
+  top: بالا
+  read_more: ادامه مطلب
+  sticky: چسبیده
+  comments: نظرات
+  comments_placeholder: 'بارگیری %s امکان‌پذیر نیست، لطفاً مطمئن شوید که شبکه شما می‌تواند دسترسی داشته باشد.'
+  updated: 'به‌روزرسانی‌شده در '
+  prev: پست قبلی
+  next: پست بعدی
+  toc: فهرست مطالب
+  copyright:
+    author: 'نویسنده: '
+    permalink: 'پیوند یکتا: '
+  expire: "این مقاله آخرین بار %s روز پیش به روز شده است، اطلاعات شرح داده شده در مقاله ممکن است قدیمی شده باشد."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

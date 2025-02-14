@@ -1,0 +1,36 @@
+page:
+  pagination: 'Page %s'
+  prev_page: Précédent
+  next_page: Suivant
+navbar:
+  home: Accueil
+  link: Lien
+  archive: Archive
+  category: Catégorie
+  tag: Étiquette
+  top: Haut de page
+search:
+  main: "Rechercher"
+  placeholder: "Veuillez entrer un mot-clé..."
+post:
+  top: Haut
+  read_more: Lire la suite
+  sticky: Mis en avant
+  comments: Commentaires
+  comments_placeholder: 'Impossible de charger %s, veuillez vous assurer que votre réseau y a accès.'
+  updated: 'mis à jour le '
+  prev: Article précédent
+  next: Article suivant
+  toc: Table des matières
+  copyright:
+    author: 'Auteur: '
+    permalink: 'Lien permanent: '
+  expire: "Cet article a été mis à jour pour la dernière fois il y a %s jours, les informations décrites dans l'article peuvent être obsolètes."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

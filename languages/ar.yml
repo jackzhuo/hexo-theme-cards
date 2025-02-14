@@ -1,0 +1,36 @@
+page:
+  pagination: 'صفحة %s'
+  prev_page: السابق
+  next_page: التالي
+navbar:
+  home: الرئيسية
+  link: رابط
+  archive: الأرشيف
+  category: فئة
+  tag: وسم
+  top: العودة إلى الأعلى
+search:
+  main: "بحث"
+  placeholder: "الرجاء إدخال كلمة مفتاحية..."
+post:
+  top: الأعلى
+  read_more: اقرأ المزيد
+  sticky: مثبت
+  comments: تعليقات
+  comments_placeholder: 'تعذر تحميل %s ، يرجى التأكد من أن شبكتك يمكنها الوصول.'
+  updated: 'تم التحديث في '
+  prev: المنشور السابق
+  next: المنشور التالي
+  toc: جدول المحتويات
+  copyright:
+    author: 'المؤلف: '
+    permalink: 'الرابط الثابت: '
+  expire: "تم تحديث هذه المقالة آخر مرة قبل %s يومًا ، وقد تكون المعلومات الواردة في المقالة قديمة."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

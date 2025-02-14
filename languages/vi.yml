@@ -1,0 +1,36 @@
+page:
+  pagination: "Trang %s"
+  prev_page: Trang trước
+  next_page: Trang sau
+navbar:
+  home: Trang chủ
+  link: Liên kết
+  archive: Lưu trữ
+  category: Danh mục
+  tag: Thẻ
+  top: Lên đầu trang
+search:
+  main: "Tìm kiếm"
+  placeholder: "Vui lòng nhập từ khóa..."
+post:
+  top: Đầu trang
+  read_more: Đọc thêm
+  sticky: Nổi bật
+  comments: Bình luận
+  comments_placeholder: "Không thể tải %s, vui lòng đảm bảo mạng của bạn có thể truy cập."
+  updated: "cập nhật lúc "
+  prev: Bài trước
+  next: Bài sau
+  toc: Mục lục
+  copyright:
+    author: "Tác giả: "
+    permalink: "Đường dẫn tĩnh: "
+  expire: "Bài viết này được cập nhật lần cuối vào %s ngày trước, thông tin được mô tả trong bài viết có thể đã lỗi thời."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

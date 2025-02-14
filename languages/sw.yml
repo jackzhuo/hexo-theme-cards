@@ -1,0 +1,36 @@
+page:
+  pagination: 'Ukurasa %s'
+  prev_page: Iliyotangulia
+  next_page: Inayofuata
+navbar:
+  home: Nyumbani
+  link: Kiungo
+  archive: Hifadhi
+  category: Kategoria
+  tag: Lebo
+  top: Rudi Juu
+search:
+  main: "Tafuta"
+  placeholder: "Tafadhali ingiza neno kuu..."
+post:
+  top: Juu
+  read_more: Soma Zaidi
+  sticky: Bandika
+  comments: Maoni
+  comments_placeholder: '%s haiwezi kupakiwa, tafadhali hakikisha mtandao wako unaweza kufikia.'
+  updated: 'iliyosasishwa mnamo '
+  prev: Chapisho Iliyotangulia
+  next: Chapisho Inayofuata
+  toc: Orodha ya Yaliyomo
+  copyright:
+    author: 'Mwandishi: '
+    permalink: 'Kiungo cha Kudumu: '
+  expire: "Makala hii ilisasishwa mara ya mwisho siku %s zilizopita, maelezo yaliyoelezwa katika makala yanaweza kuwa yamepitwa na wakati."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

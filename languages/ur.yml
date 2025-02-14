@@ -1,0 +1,36 @@
+page:
+  pagination: 'صفحہ %s'
+  prev_page: پچھلا
+  next_page: اگلا
+navbar:
+  home: ہوم
+  link: لنک
+  archive: آرکائیو
+  category: قسم
+  tag: ٹیگ
+  top: اوپر واپس
+search:
+  main: "تلاش"
+  placeholder: "براہ کرم ایک کلیدی لفظ درج کریں..."
+post:
+  top: اوپر
+  read_more: مزید پڑھیں
+  sticky: چپچپا
+  comments: تبصرے
+  comments_placeholder: '%s لوڈ کرنے سے قاصر، براہ کرم یقینی بنائیں کہ آپ کا نیٹ ورک رسائی حاصل کر سکتا ہے۔'
+  updated: 'پر اپ ڈیٹ کیا گیا '
+  prev: پچھلی پوسٹ
+  next: اگلی پوسٹ
+  toc: فہرستِ مضامین
+  copyright:
+    author: 'مصنف: '
+    permalink: 'مستقل لنک: '
+  expire: "یہ مضمون آخری بار %s دن پہلے اپ ڈیٹ کیا گیا تھا، مضمون میں بیان کردہ معلومات پرانی ہو سکتی ہیں۔"
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

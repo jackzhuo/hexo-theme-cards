@@ -1,0 +1,36 @@
+page:
+  pagination: "Pagina %s"
+  prev_page: Vorige
+  next_page: Volgende
+navbar:
+  home: Home
+  link: Link
+  archive: Archief
+  category: Categorie
+  tag: Tag
+  top: Terug naar boven
+search:
+  main: "Zoeken"
+  placeholder: "Voer een zoekterm in..."
+post:
+  top: Top
+  read_more: Lees meer
+  sticky: Vastgepind
+  comments: Opmerkingen
+  comments_placeholder: "%s kan niet worden geladen, controleer of je netwerk toegang heeft."
+  updated: "bijgewerkt op "
+  prev: Vorig bericht
+  next: Volgend bericht
+  toc: Inhoudsopgave
+  copyright:
+    author: "Auteur: "
+    permalink: "Permalink: "
+  expire: "Dit artikel is voor het laatst %s dagen geleden bijgewerkt, de informatie in dit artikel kan verouderd zijn."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"

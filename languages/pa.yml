@@ -1,0 +1,36 @@
+page:
+  pagination: 'ਸਫ਼ਾ %s'
+  prev_page: ਪਿਛਲਾ
+  next_page: ਅਗਲਾ
+navbar:
+  home: ਘਰ
+  link: ਲਿੰਕ
+  archive: ਪੁਰਾਲੇਖ
+  category: ਸ਼੍ਰੇਣੀ
+  tag: ਟੈਗ
+  top: ਉੱਪਰ ਵਾਪਸ
+search:
+  main: "ਖੋਜ"
+  placeholder: "ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਕੀਵਰਡ ਦਾਖਲ ਕਰੋ..."
+post:
+  top: ਉੱਪਰ
+  read_more: ਹੋਰ ਪੜ੍ਹੋ
+  sticky: ਚਿਪਕਿਆ
+  comments: ਟਿੱਪਣੀਆਂ
+  comments_placeholder: '%s ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ, ਕਿਰਪਾ ਕਰਕੇ ਯਕੀਨੀ ਬਣਾਓ ਕਿ ਤੁਹਾਡਾ ਨੈੱਟਵਰਕ ਪਹੁੰਚ ਕਰ ਸਕਦਾ ਹੈ।'
+  updated: 'ਤੇ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ '
+  prev: ਪਿਛਲੀ ਪੋਸਟ
+  next: ਅਗਲੀ ਪੋਸਟ
+  toc: ਵਿਸ਼ਾ - ਸੂਚੀ
+  copyright:
+    author: 'ਲੇਖਕ: '
+    permalink: 'ਪੱਕਾ ਲਿੰਕ: '
+  expire: "ਇਹ ਲੇਖ ਆਖਰੀ ਵਾਰ %s ਦਿਨ ਪਹਿਲਾਂ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਸੀ, ਲੇਖ ਵਿੱਚ ਵਰਣਿਤ ਜਾਣਕਾਰੀ ਪੁਰਾਣੀ ਹੋ ਸਕਦੀ ਹੈ।"
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

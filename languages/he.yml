@@ -1,0 +1,36 @@
+page:
+  pagination: 'עמוד %s'
+  prev_page: הקודם
+  next_page: הבא
+navbar:
+  home: בית
+  link: קישור
+  archive: ארכיון
+  category: קטגוריה
+  tag: תג
+  top: חזרה לראש הדף
+search:
+  main: "חיפוש"
+  placeholder: "אנא הזן מילת מפתח..."
+post:
+  top: למעלה
+  read_more: קרא עוד
+  sticky: דביק
+  comments: תגובות
+  comments_placeholder: 'לא ניתן לטעון את %s, אנא ודא שהרשת שלך יכולה לגשת.'
+  updated: 'עודכן ב- '
+  prev: פוסט קודם
+  next: פוסט הבא
+  toc: תוכן עניינים
+  copyright:
+    author: 'מחבר: '
+    permalink: 'קישור קבוע: '
+  expire: "מאמר זה עודכן לאחרונה לפני %s ימים, ייתכן שהמידע המתואר במאמר אינו עדכני."
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  angle_l: "&lt;&nbsp;"
+  angle_r: "&nbsp;&gt;"
+  brackets_l: "("
+  brackets_r: ")"  

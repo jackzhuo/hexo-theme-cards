@@ -4,7 +4,7 @@
     let ogDescription = '';
     let ogTitle = '';
     if (is_tag()) {
-        ogDescription = theme.description.tag.replace('%s', page.tag);
+        ogDescription = theme.description.tag.replace('%s', page.tag + " | " + page.lang);
         ogTitle = theme.title.tag.replace('%s', page.tag);
     } else if( is_archive() ) {
         ogDescription = page.year ? theme.description.archive.replace('%s', page.year + (page.month ? "/" + page.month : '')) : theme.description.all_archive;

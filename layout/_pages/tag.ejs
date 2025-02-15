@@ -1,5 +1,6 @@
 <% if (site.posts && site.posts.length > 0) { %>
     <% if (page.layout == 'tag') { %>
+        <h1 class="visually-hidden">Tag: <%= page.tag %></h1>
         <main class="main tagscloud">
             <%- tagcloud({
                 min_font: 16, 
@@ -24,6 +25,7 @@
         </style>
     <% } else { %>
         <main class="main">
+            <h1 class="visually-hidden">Tag: <%= page.tag %></h1>
             <%- partial('_partial/post/post-list') %>
         </main>
     <% } %>

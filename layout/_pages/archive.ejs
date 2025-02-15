@@ -1,8 +1,10 @@
 <main class='main'>
     <% if (page.year || page.month) { %>
+        <h1 class="visually-hidden">Archives: <%= page.year + page.month ? page.month : '' %></h1>
 		<%- partial('_partial/post/post-list') %>
 	<% } else { %>
         <div class="archives">
+            <h1 class="visually-hidden">Archives: all articles</h1>
             <%
             var yr = -1, pd = -1;
             site.posts.sort('date', -1).forEach((post) => {

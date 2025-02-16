@@ -17,7 +17,7 @@
         ogTitle = page.title || config.title;
     }
     ogDescription += " | " + page.lang;
-    ogTitle += page.lang;
+    ogTitle += " | " + page.lang;
     if(page.total && page.current) {
         ogDescription += " | " + page.current + "/" + page.total;
         ogTitle += " | " + page.current + "/" + page.total;

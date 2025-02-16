@@ -4,11 +4,11 @@
     let ogDescription = '';
     let ogTitle = '';
     if (is_tag()) {
-        ogDescription = theme.description.tag.replace('%s', page.tag + " | " + page.lang);
+        ogDescription = theme.description.tag.replace('%s', page.tag + "|" + page.lang);
         ogTitle = theme.title.tag.replace('%s', page.tag);
     } else if( is_archive() ) {
-        ogDescription = page.year ? theme.description.archive.replace('%s', page.year + (page.month ? "/" + page.month : '')) : theme.description.all_archive;
-        ogTitle = page.year ? theme.title.archive.replace('%s', page.year + (page.month ? '/' + page.month : '')) : theme.title.all_archive;
+        ogDescription = (page.year ? theme.description.archive.replace('%s', page.year + (page.month ? "/" + page.month : '')) : theme.description.all_archive) + " | " + page.current + "/" + page.total;
+        ogTitle = (page.year ? theme.title.archive.replace('%s', page.year + (page.month ? '/' + page.month : '')) : theme.title.all_archive) + " | " + page.current + "/" + page.total;
     } else if( is_category() ) {
         ogDescription = theme.description.category.replace('%s', page.category);
         ogTitle = page.category + ' - ' + config.title;

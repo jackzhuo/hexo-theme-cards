@@ -13,6 +13,7 @@ if (is_archive()) {
     } else if (is_year()) {
         title += __('symbol.colon') + page.year;
     }
+    title += " | " + page.current + "/" + page.total;
 } else if (is_category()) {
     title = __('navbar.category') + __('symbol.colon') + page.category;
 } else if (is_tag()) {

@@ -4,17 +4,23 @@
     let ogDescription = '';
     let ogTitle = '';
     if (is_tag()) {
-        ogDescription = theme.description.tag.replace('%s', page.tag + "|" + page.lang)  + " | " + page.current + "/" + page.total;
-        ogTitle = theme.title.tag.replace('%s', page.tag) + " | " + page.current + "/" + page.total;
+        ogDescription = theme.description.tag.replace('%s', page.tag);
+        ogTitle = theme.title.tag.replace('%s', page.tag);
     } else if( is_archive() ) {
-        ogDescription = (page.year ? theme.description.archive.replace('%s', page.year + (page.month ? "/" + page.month : '')) : theme.description.all_archive) + " | " + page.current + "/" + page.total;
-        ogTitle = (page.year ? theme.title.archive.replace('%s', page.year + (page.month ? '/' + page.month : '')) : theme.title.all_archive) + " | " + page.current + "/" + page.total;
+        ogDescription = page.year ? theme.description.archive.replace('%s', page.year + (page.month ? "/" + page.month : '')) : theme.description.all_archive;
+        ogTitle = page.year ? theme.title.archive.replace('%s', page.year + (page.month ? '/' + page.month : '')) : theme.title.all_archive;
     } else if( is_category() ) {
         ogDescription = theme.description.category.replace('%s', page.category);
         ogTitle = page.category + ' - ' + config.title;
     } else {
-        ogDescription = page.description || page.excerpt || config.description + " | " + page.current + "/" + page.total;
-        ogTitle = page.title || config.title + " | " + page.current + "/" + page.total;
+        ogDescription = page.description || page.excerpt || config.description;
+        ogTitle = page.title || config.title;
+    }
+    ogDescription += page.lang;
+    ogTitle += page.lang;
+    if(page.total && page.current) {
+        ogDescription += " | " + page.current + "/" + page.total;
+        ogTitle += " | " + page.current + "/" + page.total;
     }
     %>
     <%- open_graph({

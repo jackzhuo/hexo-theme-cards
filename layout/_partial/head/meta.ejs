@@ -18,9 +18,12 @@ if (is_archive()) {
 } else if (is_tag()) {
     title = __('navbar.tag') + __('symbol.colon') + page.tag;
 } else if (is_home()) {
-    title = '';
+    title = __('navbar.home');
 }
-title += " | " + page.current + "/" + page.total;
+title += " | " + page.lang;
+if(page.current && page.total) {
+    title += " | " + page.current + "/" + page.total;
+}
 %>
 
 <title><% if (title) { %><%= title %> | <% } %><%= config.title %></title>
